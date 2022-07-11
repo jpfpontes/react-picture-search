@@ -1,7 +1,7 @@
 # React Youtube Search
 
 ## Description
-Search for pictures. This project was made using unsplash API and Axios.
+Search for pictures. This project was made using Unsplash API and Axios.
 
 ## Usage
 
